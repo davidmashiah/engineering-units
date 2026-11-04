@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "engineering-units: engineering unit conversion from exact definitions"
+type: software
+authors:
+  - family-names: "Mashiah"
+    given-names: "David"
+    orcid: "https://orcid.org/0009-0004-4684-955X"
+    website: "https://davidmashiah.com"
+repository-code: "https://github.com/davidmashiah/engineering-units"
+url: "https://taueng.com/en/tools/units/"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-04"
+keywords:
+  - unit conversion
+  - engineering
+  - units

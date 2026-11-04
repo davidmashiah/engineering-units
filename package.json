@@ -1,0 +1,18 @@
+{
+  "name": "engineering-units",
+  "version": "1.0.0",
+  "description": "Engineering unit conversion from exact definitions: pressure (psi, ksi, bar, inH2O, kgf/cm²), energy, power (hp, BTU/h, refrigeration tons), force, torque, flow (gpm, cfm, L/min), speed, density and angular speed. Converts text like \"30 psi to bar\". Zero dependencies, tested.",
+  "type": "module",
+  "exports": { ".": { "types": "./index.d.ts", "default": "./src/index.js" } },
+  "types": "./index.d.ts",
+  "files": ["src", "index.d.ts", "README.md", "LICENSE"],
+  "sideEffects": false,
+  "scripts": { "test": "node --test test/*.test.mjs" },
+  "keywords": ["unit conversion", "units", "engineering", "converter", "psi", "bar", "ksi", "MPa", "torque", "flow rate", "gpm", "cfm", "horsepower", "BTU", "refrigeration ton", "pressure", "density"],
+  "author": "David Mashiah (https://davidmashiah.com)",
+  "license": "MIT",
+  "homepage": "https://taueng.com/en/tools/units/",
+  "repository": { "type": "git", "url": "git+https://github.com/davidmashiah/engineering-units.git" },
+  "bugs": { "url": "https://github.com/davidmashiah/engineering-units/issues" },
+  "engines": { "node": ">=18" }
+}

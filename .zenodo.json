@@ -1,0 +1,12 @@
+{
+  "upload_type": "software",
+  "title": "engineering-units: engineering unit conversion from exact definitions in JavaScript",
+  "creators": [{ "name": "Mashiah, David", "affiliation": "Tel Aviv University", "orcid": "0009-0004-4684-955X" }],
+  "description": "<p>Zero-dependency JavaScript library for engineering unit conversion: pressure (including psi, ksi, kgf/cm² and inches of water), energy, power (including horsepower, BTU/h and refrigeration tons), force, torque, flow rate (gpm, cfm, L/min), speed, density and angular speed. Every factor is derived from an exact definition, and the test suite checks units against published values and round-trips every pair. It also converts text such as \"30 psi to bar\".</p><p>Also on npm as <a href=\"https://www.npmjs.com/package/engineering-units\">engineering-units</a>. Author: <a href=\"https://davidmashiah.com\">David Mashiah</a>.</p>",
+  "license": "MIT",
+  "keywords": ["unit conversion", "engineering", "units", "JavaScript"],
+  "related_identifiers": [
+    { "identifier": "https://www.npmjs.com/package/engineering-units", "relation": "isIdenticalTo", "scheme": "url" },
+    { "identifier": "https://taueng.com/en/tools/units/", "relation": "isSupplementTo", "scheme": "url" }
+  ]
+}
