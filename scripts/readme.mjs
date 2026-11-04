@@ -74,6 +74,11 @@ Each common pair has a page with the answer, a live converter, the formula and a
 table, built on this library at taueng.com: ${pages.map(([t, s]) => `[${t}](${T}${s}/)`).join(', ')},
 and the full [engineering unit converter](https://taueng.com/en/tools/units/).
 
+## Cite
+
+Mashiah, D. (2026). engineering-units: engineering unit conversion from exact definitions in
+JavaScript. Zenodo. [doi.org/10.5281/zenodo.23938912](https://doi.org/10.5281/zenodo.23938912)
+
 ## Author
 
 [David Mashiah](https://davidmashiah.com). Also by the same author:

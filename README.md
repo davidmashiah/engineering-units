@@ -147,6 +147,11 @@ Each common pair has a page with the answer, a live converter, the formula and a
 table, built on this library at taueng.com: [psi to bar](https://taueng.com/en/tools/convert/psi-to-bar/), [bar to psi](https://taueng.com/en/tools/convert/bar-to-psi/), [MPa to ksi](https://taueng.com/en/tools/convert/mpa-to-ksi/), [ksi to MPa](https://taueng.com/en/tools/convert/ksi-to-mpa/), [psi to MPa](https://taueng.com/en/tools/convert/psi-to-mpa/), [N·m to lbf·ft](https://taueng.com/en/tools/convert/nm-to-lbf-ft/), [kW to hp](https://taueng.com/en/tools/convert/kw-to-hp/), [kW to BTU/h](https://taueng.com/en/tools/convert/kw-to-btu-h/), [L/min to gpm](https://taueng.com/en/tools/convert/lpm-to-gpm/), [m³/h to cfm](https://taueng.com/en/tools/convert/m3-h-to-cfm/), [knots to mph](https://taueng.com/en/tools/convert/knots-to-mph/), [kg/m³ to lb/ft³](https://taueng.com/en/tools/convert/kg-m3-to-lb-ft3/), [rpm to rad/s](https://taueng.com/en/tools/convert/rpm-to-rad-s/), [kW to refrigeration tons](https://taueng.com/en/tools/convert/kw-to-refrigeration-tons/),
 and the full [engineering unit converter](https://taueng.com/en/tools/units/).
 
+## Cite
+
+Mashiah, D. (2026). engineering-units: engineering unit conversion from exact definitions in
+JavaScript. Zenodo. [doi.org/10.5281/zenodo.23938912](https://doi.org/10.5281/zenodo.23938912)
+
 ## Author
 
 [David Mashiah](https://davidmashiah.com). Also by the same author:
